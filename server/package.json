@@ -1,0 +1,23 @@
+{
+  "name": "tic-tac-squared",
+  "version": "1.0.0",
+  "description": "Tic Tac Toe... Squared",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "debug": "node debug index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Bacon-Blaber",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.11",
+    "mongoose": "^5.5.11",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "lint-trap": "^1.0.1"
+  }
+}
