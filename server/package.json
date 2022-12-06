@@ -11,7 +11,7 @@
   "author": "Patrick Bacon-Blaber",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash": "^4.17.11",
     "mongoose": "^5.5.11",
     "socket.io": "^2.2.0",
